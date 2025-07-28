@@ -29,6 +29,3 @@ This assignment is part of **MSCS 532: Design and Analysis of Algorithms**.
 ### Prerequisites
 - Python 3.8 or higher
 
-### Installation
-Clone the repository:
-```bash
